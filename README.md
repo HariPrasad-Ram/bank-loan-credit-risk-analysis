@@ -198,7 +198,7 @@ This project demonstrates a complete data analytics lifecycle, combining technic
 
 📬 Contact
 
-Name: Your Name
+Name:Ram HariPrasad
 Role: Aspiring Data Analyst
-LinkedIn: Add your LinkedIn URL
+LinkedIn:https://www.linkedin.com/in/hariprasad-ram-933152358/
 GitHub: This repository
