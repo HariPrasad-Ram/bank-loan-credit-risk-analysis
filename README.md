@@ -141,8 +141,11 @@ Detailed transaction-level tables with drill-through capability
 <img width="802" height="455" alt="Screenshot 2025-12-15 114507" src="https://github.com/user-attachments/assets/cf45cf14-663e-4a25-b4ae-7029f453a443" />
 <img width="877" height="462" alt="Screenshot 2025-12-15 114445" src="https://github.com/user-attachments/assets/9400a07d-19e2-4883-8179-6f5b9279e856" />
 <img width="1549" height="838" alt="Screenshot 2025-12-15 113856" src="https://github.com/user-attachments/assets/02851ccb-c591-4d79-b024-19060b27c1e0" />
-
-
+<img width="1549" height="850" alt="Screenshot 2025-12-15 113826" src="https://github.com/user-attachments/assets/d9bcfe63-6593-4c1e-8577-daada509de0e" />
+<img width="1549" height="851" alt="Screenshot 2025-12-15 113759" src="https://github.com/user-attachments/assets/b01450ad-d45f-4bd6-99c2-7f14358a3a68" />
+<img width="1336" height="745" alt="Screenshot 2025-12-15 113436" src="https://github.com/user-attachments/assets/b10d858e-dc71-4ae6-a0e6-bb0c1d0b15af" />
+<img width="1341" height="751" alt="Screenshot 2025-12-15 113346" src="https://github.com/user-attachments/assets/e25b77b1-e482-4e21-989c-7d9ad864a51a" />
+<img width="1337" height="750" alt="Screenshot 2025-12-15 113246" src="https://github.com/user-attachments/assets/f6af27ed-8381-47a1-bceb-34084563fb18" />
 
 💡 Key Insights
 
